@@ -1,0 +1,21 @@
+@media screen and (max-width:988px) {
+
+    .hardskils,
+    .soft-skils {
+        flex-direction: column;
+    }
+    .projeto{
+    flex-direction: column;
+    }
+    .img-card img{
+    border-radius: 10px;
+    width: 100px;
+    }
+}
+
+@media screen and (max-width:1045px) {
+    .page-content {
+
+        flex-direction: column;
+    }
+}
